@@ -8,5 +8,5 @@
       { "id": 7, "first_name": "Johnny", "last_name":"Gaudreau","points": 99},
       { "id": 8, "first_name": "Nathan", "last_name":"MacKinnon","points": 99},
       { "id": 9, "first_name": "Steven", "last_name":"Stamkos","points": 98},
-      { "id": 10," first_name": "Aleksander", "last_name":"Barkov","points": 96}
+      { "id": 10, "first_name": "Aleksander", "last_name":"Barkov","points": 96}
   ]
