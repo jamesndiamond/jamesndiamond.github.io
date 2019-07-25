@@ -1,0 +1,14 @@
+{
+  "heroes": [
+    { "id": 1, "first_name": "Nikita","last_name":"Kucherov", "points": 128 },
+      { "id": 2, "first_name": "Connor", "last_name":"McDavid","points": 116},
+      { "id": 3, "first_name": "Patrick", "last_name": "Kane","points": 110},
+      { "id": 4, "first_name": "Leon", "last_name":"Draisaitl","points": 105},
+      { "id": 5, "first_name": "Brad", "last_name":"STINKFACE","points": 100},
+      { "id": 6, "first_name": "Sidney", "last_name":"Crosby","points": 100},
+      { "id": 7, "first_name": "Johnny", "last_name":"Gaudreau","points": 99},
+      { "id": 8, "first_name": "Nathan", "last_name":"MacKinnon","points": 99},
+      { "id": 9, "first_name": "Steven", "last_name":"Stamkos","points": 98},
+      { "id": 10," first_name": "Aleksander", "last_name":"Barkov","points": 96}
+  ]
+}
